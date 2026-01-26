@@ -51,3 +51,8 @@ The purpose of this repo is to host my wedding photos (in black and white form) 
 ![](photos/©%20China%20Jorrin-252.jpg)
 
 ![](photos/©%20China%20Jorrin-276.jpg)
+
+# Preview of all photos 
+
+<a href = "preview.md">🔎</a>
+
