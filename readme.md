@@ -56,3 +56,7 @@ The purpose of this repo is to host my wedding photos (in black and white form) 
 
 <a href = "preview.md">🔎</a>
 
+# Wedding photos with colors 
+
+<a href = "https://github.com/yuezheli/wedding-photo-color">🔎</a>
+
