@@ -5,9 +5,9 @@ The purpose of this repo is to host my wedding photos (in black and white form) 
 
 # Some of my favorite 
 
-![](© China Jorrin-63.jpg)
+![](photos/©%20China%20Jorrin-63.jpg)
 
-![](© China Jorrin-124.jpg)
+![](photos/©%20China%20Jorrin-124.jpg)
 
 # Some of our guests 
 
